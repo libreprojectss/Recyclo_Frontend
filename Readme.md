@@ -1,4 +1,4 @@
-# Recyclo - E-Waste Recycling Startup Project
+# Recyclo - E-Waste Recycling Project
 
 ![Recyclo Logo](/path/to/logo.png) <!-- Replace with the actual path to your logo image -->
 
